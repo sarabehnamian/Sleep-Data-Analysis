@@ -8,5 +8,4 @@ The Python script loads the Sleep-EDF dataset using the MNE-Python library (Gram
 
 The code showcases my technical skills and expertise in handling sleep data, which can be beneficial for future projects in the field of sleep research.
 
-The script and resulting plot can be found in the "sleep_data_analysis.py" file in this repository.
 
